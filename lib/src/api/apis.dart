@@ -1,0 +1,1 @@
+export 'package:prayer_times/src/api/al_adhan_api.dart';
